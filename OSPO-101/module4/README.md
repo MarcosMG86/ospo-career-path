@@ -28,7 +28,7 @@ As you can see from this graphic, ‘requirements’ generally come in the form 
 
 This has unique advantages in that it harnesses the ability to respond rapidly to changing requirements or the technology & business landscape in which the project is operating. However, it does require significant developer discipline, as well as core open source maintainers who are also helping to manage the long-term strategic goals of the project.
 
-It should be noted that many of these principles are part of the [Agile Software Development Methodology](https://en.wikipedia.org/wiki/Agile_software_development), and indeed there are many similarities. We’ll discuss some slight differences in later sections.  
+It should be noted that many of these principles are part of the [Agile Software Development Mindset](https://en.wikipedia.org/wiki/Agile_software_development), and indeed there are many similarities. We’ll discuss some slight differences in later sections.  
 
 
 ### Requirements in Traditional Closed Software Development
